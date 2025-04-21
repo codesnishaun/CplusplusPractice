@@ -3,9 +3,9 @@
 ## BASIC TO HARD C++ PROGRAM
 
 ### Easy (1–25)
-Problem 1: Hello World Output
+Problem 1: Hello World Output✅
 
-Problem 2: Basic Input and Output
+Problem 2: Basic Input and Output✅
 
 Problem 3: Sum of Two Numbers
 
