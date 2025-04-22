@@ -13,9 +13,9 @@ Problem 4: Find the Maximum of Two Numbers✅
 
 Problem 5: Simple Calculator (Add, Sub, Mul, Div)✅
 
-Problem 6: Swap Two Numbers
+Problem 6: Swap Two Numbers✅
 
-Problem 7: Factorial of a Number
+Problem 7: Factorial of a Number✅
 
 Problem 8: Fibonacci Sequence Generator
 
