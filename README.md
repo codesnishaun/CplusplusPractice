@@ -17,7 +17,7 @@ Problem 6: Swap Two Numbers✅
 
 Problem 7: Factorial of a Number✅
 
-Problem 8: Fibonacci Sequence Generator
+Problem 8: Fibonacci Sequence Generator✅
 
 Problem 9: Prime Number Checker
 
