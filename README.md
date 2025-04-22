@@ -5,9 +5,9 @@
 ### 🟢 Easy Level (Basic Syntax, Conditionals, Loops)
 Problem 1: Hello World Printer✅
 
-Problem 2: Sum of Two Numbers
+Problem 2: Sum of Two Numbers✅
 
-Problem 3: Even or Odd Checker
+Problem 3: Even or Odd Checker✅
 
 Problem 4: Find the Maximum of Two Numbers
 

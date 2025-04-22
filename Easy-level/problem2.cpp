@@ -1,3 +1,5 @@
+// simple addition of 2 integers
+
 #include <iostream>
 using namespace std;
 

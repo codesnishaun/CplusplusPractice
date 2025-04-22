@@ -1,15 +1,17 @@
+// Even odd checker
+
 #include <iostream>
 using namespace std;
 
 int main() {
-    int num1, num2, sum;
+    int num;
 
-    cout << "Enter first number: ";
-    cin >> num1;
+    cout << "Enter a number: ";
+    cin >> num;
 
-    cout << "Enter second number: ";
-    cin >> num2;
-
-    sum = num1 + num2;
-    cout << "The sum of two numbers is: " << sum << '\n';
+    if(num % 2 == 0){
+        cout << num << " is even number\n";
+        return 0;
+    }
+    cout << num << " is odd number\n";
 }
