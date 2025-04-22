@@ -9,7 +9,7 @@ Problem 2: Sum of Two Numbers✅
 
 Problem 3: Even or Odd Checker✅
 
-Problem 4: Find the Maximum of Two Numbers
+Problem 4: Find the Maximum of Two Numbers✅
 
 Problem 5: Simple Calculator (Add, Sub, Mul, Div)
 
