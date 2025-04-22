@@ -11,7 +11,7 @@ Problem 3: Even or Odd Checker✅
 
 Problem 4: Find the Maximum of Two Numbers✅
 
-Problem 5: Simple Calculator (Add, Sub, Mul, Div)
+Problem 5: Simple Calculator (Add, Sub, Mul, Div)✅
 
 Problem 6: Swap Two Numbers
 
