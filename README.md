@@ -21,7 +21,7 @@ Problem 8: Fibonacci Sequence Generator✅
 
 Problem 9: Prime Number Checker✅
 
-Problem 10: Multiplication Table Printer
+Problem 10: Multiplication Table Printer✅
 
 Problem 11: Armstrong Number Checker
 
