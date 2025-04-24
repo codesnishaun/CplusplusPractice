@@ -19,7 +19,7 @@ Problem 7: Factorial of a Number✅
 
 Problem 8: Fibonacci Sequence Generator✅
 
-Problem 9: Prime Number Checker
+Problem 9: Prime Number Checker✅
 
 Problem 10: Multiplication Table Printer
 
