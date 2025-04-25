@@ -23,7 +23,7 @@ Problem 9: Prime Number Checker✅
 
 Problem 10: Multiplication Table Printer✅
 
-Problem 11: Armstrong Number Checker
+Problem 11: Armstrong Number Checker✅
 
 Problem 12: Palindrome Number Checker
 
