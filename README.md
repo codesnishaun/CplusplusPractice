@@ -25,7 +25,7 @@ Problem 10: Multiplication Table Printer✅
 
 Problem 11: Armstrong Number Checker✅
 
-Problem 12: Palindrome Number Checker
+Problem 12: Palindrome Number Checker✅
 
 Problem 13: Count Digits in a Number
 
