@@ -3,19 +3,22 @@
 using namespace std;
 
 bool isArmstrongNumber(int num) {
+    if(num > 0){
+        return false;
+    }
     int numberOfDigit = 0;
     int armstrong = 0;
     int copy = num;
 
-    while(copy > 0){
+    while(copy != 0){
         copy /= 10;
         ++numberOfDigit;
     }
 
     copy = num;
 
-    for(int i = 0; i < numberOfDigit; ++i){
-        armstrong += pow(copy % 10, numberOfDigit); 
+    while(copy != 0){
+        armstrong += pow(copy % 10, numberOfDigit);
         copy /= 10;
     }
 
@@ -29,7 +32,7 @@ int main() {
     while(!(cin >> num)) {
         cout << "Invalid input, try again: ";
         cin.clear();
-        cin.ignore(100, '\n');
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
     }
 
     if(isArmstrongNumber(num)){
