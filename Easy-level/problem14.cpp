@@ -1,10 +1,11 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int reversed(int num) {
     int reverse = 0;
     bool isNegative = (num < 0);
-    num = -num;
+    num = abs(num);
 
     while(num > 0) {
         reverse = (reverse * 10) + (num % 10);
