@@ -29,7 +29,7 @@ Problem 12: Palindrome Number Checker✅
 
 Problem 13: Count Digits in a Number✅
 
-Problem 14: Reverse a Number
+Problem 14: Reverse a Number✅
 
 Problem 15: Sum of Digits of a Number
 
