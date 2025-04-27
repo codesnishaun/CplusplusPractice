@@ -33,7 +33,7 @@ Problem 14: Reverse a Number✅
 
 Problem 15: Sum of Digits of a Number✅
 
-Problem 16: Find GCD and LCM
+Problem 16: Find GCD and LCM✅
 
 Problem 17: Convert Celsius to Fahrenheit
 

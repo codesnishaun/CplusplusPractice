@@ -1,26 +1,41 @@
 #include <iostream>
 using namespace std;
 
-void findGCD(int a, int b) {
-    int first, seccond;
-    while(a % b != 0) {
-        a = a % b;
+int findGCD(int a, int b) {
+    while(b != 0) {
         int temp = b;
-        b = a;
+        b = a % b;
         a = temp;
-
     }
-    cout << b << " is the GCD of 270 and 192\n";
+    return a;
+}
+
+int findLCM(int a, int b) {
+    return a * b / findGCD(a,b);
+}
+
+void output(int a, int b) {
+    cout << "GCD: " << findGCD(a, b) << '\n';
+    cout << "LCM: " << findLCM(a, b) << '\n';
 }
 
 int main() {
     int a, b;
     
     cout << "A = ";
-    cin >> a;
+    while(!(cin >> a)){
+        cout << "Invalid input. Please try again: ";
+        cin.clear();
+        cin.ignore(100, '\n');
+    }
 
     cout << "B = ";
-    cin >> b;
+    while(!(cin >> b)){
+        cout << "Invalid input. Please try again: ";
+        cin.clear();
+        cin.ignore(100, '\n');
+    }
+    
+    output(a, b);
 
-    findGCD(a, b);
 }
