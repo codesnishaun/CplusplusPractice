@@ -39,7 +39,7 @@ Problem 17: Convert Celsius to Fahrenheit✅
 
 Problem 18: Leap Year Checker✅
 
-Problem 19: Simple Interest Calculator
+Problem 19: Simple Interest Calculator✅
 
 Problem 20: Area of Circle
 
