@@ -35,9 +35,9 @@ Problem 15: Sum of Digits of a Number✅
 
 Problem 16: Find GCD and LCM✅
 
-Problem 17: Convert Celsius to Fahrenheit
+Problem 17: Convert Celsius to Fahrenheit✅
 
-Problem 18: Leap Year Checker
+Problem 18: Leap Year Checker✅
 
 Problem 19: Simple Interest Calculator
 
