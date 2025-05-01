@@ -48,7 +48,7 @@ Problem 21: Find Maximum in an Array✅
 
 Problem 22: Search an Element in an Array✅
 
-Problem 23: Sort an Array (Bubble Sort)
+Problem 23: Sort an Array (Bubble Sort)✅
 
 Problem 24: Reverse an Array
 
