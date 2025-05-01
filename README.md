@@ -50,7 +50,7 @@ Problem 22: Search an Element in an Array✅
 
 Problem 23: Sort an Array (Bubble Sort)✅
 
-Problem 24: Reverse an Array
+Problem 24: Reverse an Array✅
 
 Problem 25: Remove Duplicates from Array
 
